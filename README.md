@@ -11,9 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/wsyssantos/](https://www.linkedin.com/in/wsyssantos/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsyssantos&repo=wsyssantos)](https://github.com/wsyssantos/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsyssantos&theme=dracula&exclude_repo=github-readme-stats,wsyssantos.github.io)](https://github.com/wsyssantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsyssantos&theme=dracula&layout=compact&exclude_repo=github-readme-stats,wsyssantos.github.io)](https://github.com/wsyssantos/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsyssantos&show_icons=true&theme=dracula)](https://github.com/wsyssantos/github-readme-stats)
 
