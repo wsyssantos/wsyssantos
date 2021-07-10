@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/wsyssantos/](https://www.linkedin.com/in/wsyssantos/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsyssantos)](https://github.com/wsyssantos/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oldwsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oldwsy" height="30" width="40" /></a>
